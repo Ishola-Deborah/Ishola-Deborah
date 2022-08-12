@@ -11,7 +11,7 @@ I'm a Software Engineer, geneticist, and data science enthusiast. I'm currently 
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing awosiseo@gmail.com.
+- 📫 You can contact me by emailing isholadeborahope@gmail.com.
 
 ---
 
